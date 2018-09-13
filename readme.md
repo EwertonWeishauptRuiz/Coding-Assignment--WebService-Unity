@@ -6,7 +6,7 @@ Main objective was to create a Unity project to search programs from the Yle API
     4. When the user scrolls to the last few items in the list, the next 10 results should be appended to the list. An example for this type of scrolling can be seen on the desktop website of Facebook.
     5. Pressing on the row should display more details about the programme. For this you can select any 5 revelant fields from the JSON.
 
-    ### Technologies asked to be used:
-        1. Unity UI
-        2. UnityWebRequest
-        3. Any JSON library you prefer
+## Technologies asked to be used:
+    1. Unity UI
+    2. UnityWebRequest
+    3. Any JSON library you prefer
